@@ -1,4 +1,4 @@
-package jenkins.jenhome;
+package hw;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

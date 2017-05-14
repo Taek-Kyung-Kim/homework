@@ -1,3 +1,4 @@
+package hw;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -23,7 +24,6 @@ public class test extends JFrame {
        tf.setFont(new Font("Gothic", Font.ITALIC, 100));
        tf.addActionListener(new ActionListener() {
 		
-		@Override
 		public void actionPerformed(ActionEvent e) {
 			JTextField t= (JTextField)e.getSource();
 			String s = t.getText();

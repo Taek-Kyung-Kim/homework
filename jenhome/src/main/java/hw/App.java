@@ -1,4 +1,4 @@
-package jenkins.jenhome;
+package hw;
 
 /**
  * Hello world!
